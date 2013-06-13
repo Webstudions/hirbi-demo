@@ -13,6 +13,7 @@ begin
   writeln('Cynthia had haar best goed gedaan!');
   // Code Alexander
      writeln('euhm .... ');
+     writeln('gauthier waar ben je ?')
   // Code Stijn
 	writeln('Stijn doet een poging, 2 pogingen zelfs teneinde dit programma te verstaan');
 
