@@ -7,6 +7,10 @@ begin
   writeln('Hello World!');
   // Code Nick
   writeln('Ik ben Nick');
+
+  //code Charlotte
+  ('I am sexy and I know it');
+  ('Cynthia had haar best goed gedaan!')
   // Code Alexander
 
   // Code Stijn
