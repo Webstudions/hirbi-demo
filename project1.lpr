@@ -14,6 +14,7 @@ begin
   // Code Alexander
 
   // Code Stijn
+	writeln('Stijn doet een poging');
 
   // Code Yves
 
