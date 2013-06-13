@@ -12,7 +12,7 @@ begin
   writeln('I am sexy and I know it');
   writeln('Cynthia had haar best goed gedaan!');
   // Code Alexander
-
+     writeln('euhm .... ');
   // Code Stijn
 	writeln('Stijn doet een poging');
 
