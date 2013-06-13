@@ -9,8 +9,8 @@ begin
   writeln('Ik ben Nick');
 
   //code Charlotte
-  ('I am sexy and I know it');
-  ('Cynthia had haar best goed gedaan!')
+  writeln('I am sexy and I know it');
+  writeln('Cynthia had haar best goed gedaan!');
   // Code Alexander
 
   // Code Stijn
