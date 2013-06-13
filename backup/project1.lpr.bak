@@ -6,7 +6,7 @@ begin
 
   writeln('Hello World!');
   // Code Nick
-
+  writeln('Ik ben Nick');
   // Code Alexander
 
   // Code Stijn
